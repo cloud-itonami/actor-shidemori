@@ -5,7 +5,7 @@
 **ADR**: ADR-2605263800 (R0 scaffold; **FINAL gap-closure** of 10-actor 30min-loop wave)
 **Status**: R0 scaffold (2026-05-26) — 6 cells path-reserved + 5 Lexicon skeletons
 **Cross-actor**: musubi.funeral_ceremony (TIGHT memorial NFT mint pair) / chigiri.inheritanceChain (TIGHT succession handoff pair) / Land Registry (waqf-equivalent cemetery; mizuho G11 pattern shared) / toritate (cemetery maintenance + external mortuary Public Fund) / kokoro.grief_support (post-funeral grief continuity) / kazaori (mass-fatality memorial; path-reserved shidemori at R0) / kataribe (memorial publication + cross-doctrinal grief literature)
-**Canonical repository**: `etzhayyim/actor-shidemori`
+**Canonical repository**: `cloud-itonami/actor-shidemori`
 
 ## Overview
 
